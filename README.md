@@ -7,4 +7,4 @@ Different notebooks from projects.
 
 - [Dimensionality_reduction_PROJECTS.ipynb](https://github.com/andrey-09/notebooks/blob/9fa26199eb196503d9b051952e892f1eca59fd16/Dimensionality_reduction_PROJECTS.ipynb) (notebook with different dimensionality reduction algorithms on the mnist data set and on the 3d to 2d transformation. Principal Component Analysis (PCA), t-Distributed Stochastic Neighbor Embedding (t-SNE), LLE and MDS. Test on building a Pipeline with a reduction and then using a RandomForestClassifier. Combining multiple reductin algorithms (PCA+t-SNE)
 
-- [Unsupervised_learning.ipynb] notebook with the Unsupervised learning: clustering with K-Means (finding the optimal number of clusters: inertia, sillhoette score), Gaussian Mixture: anomaly detection. 
+- [Unsupervised_learning.ipynb](https://github.com/andrey-09/notebooks/blob/1af840fd46c7c4272ca7e2346b110fa2d637bec4/Unsupervised_learning.ipynb) notebook with the Unsupervised learning: clustering with K-Means (finding the optimal number of clusters: inertia, sillhoette score), Gaussian Mixture: anomaly detection. 
